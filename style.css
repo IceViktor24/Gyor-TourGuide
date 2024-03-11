@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Mina:wght@400;700&display=swap');
+body{
+color: lightgrey ;
+font-family: "Mina", sans-serif;
+margin-left: 10%;
+margin-right: 10%;
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-image: url(black-calathea-lutea-patterned-background_53876-144275.jpg);
+background-size: 3200px;
+background-position: center;
+
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+table {
+width: 30%;
+border-style: double;
+margin-left: auto;
+margin-right: auto;
+}
+th{
+width: 30%;
+    border-style: double;
+}
+
+h2{
+    text-decoration: underline;
+    
+}
+.Győr{
+    float: right;
+}
+a{
+    color: whitesmoke;
+}
+.R{
+    float: right;
+    width: 200px;
+}
+h4{
+  text-align: center;
+  text-decoration: underline;
+  color: cyan;
+}
+#sport_logo{
+    float: right;
+    width: 300px;
+}
+h5{
+    text-align: center;
+
+}
+#gif{
+    float: right;
+    width: 250px;
+}
